@@ -11,3 +11,4 @@ A smart contract is an automated
 2. program on the blockchain.
 2. These contracts execute without intermediaries.
 2. DeFi provides financial services without banks.
+2. DeFi gives users full control over their assets.
