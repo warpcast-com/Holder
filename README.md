@@ -1,1 +1,1 @@
-Text-based RPG in a broken simulation where you explore shifting worlds, make choices, and survive collapsing realities.
+1. Cryptocurrencies are a decentralized financial system based on blockchain.
