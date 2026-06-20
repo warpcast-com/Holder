@@ -28,3 +28,4 @@ A smart contract is an automated
 2. Assets must be protected carefully.
 2. Crypto laws vary across countries.
 2. Some countries have legalized it.
+. Some countries have restricted it.
