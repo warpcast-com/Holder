@@ -8,3 +8,4 @@
 2. Ethereum is one of the most important crypto projects.
 2. Ethereum introduced smart contracts.
 A smart contract is an automated 
+2. program on the blockchain.
