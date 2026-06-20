@@ -26,3 +26,4 @@ A smart contract is an automated
 2. Wallets are used to store cryptocurrencies
 2. Hacking is one of the major risks.
 2. Assets must be protected carefully.
+2. Crypto laws vary across countries.
