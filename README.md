@@ -30,3 +30,4 @@ A smart contract is an automated
 2. Some countries have legalized it.
 . Some countries have restricted it.
 32. The future of crypto depends on regulations.
+33. Blockchain also has non-financial uses.
