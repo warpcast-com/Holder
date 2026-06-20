@@ -2,3 +2,4 @@
 1. A blockchain is a secure and distributed record ledger.
 1. Bitcoin was the first cryptocurrency in 2009.
 1. Bitcoin was created by an unknown person called Satoshi Nakamoto.
+1. Bitcoin aimed to enable direct payments without intermediaries.
