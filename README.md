@@ -9,3 +9,4 @@
 2. Ethereum introduced smart contracts.
 A smart contract is an automated 
 2. program on the blockchain.
+2. These contracts execute without intermediaries.
