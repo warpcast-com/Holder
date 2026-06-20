@@ -33,3 +33,4 @@ A smart contract is an automated
 . Blockchain also has non-financial uses.
 . It can be used in voting systems.
 . It is used in digital identity systems.
+. Crypto may change the global financial system.
