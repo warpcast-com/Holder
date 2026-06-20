@@ -29,3 +29,4 @@ A smart contract is an automated
 2. Crypto laws vary across countries.
 2. Some countries have legalized it.
 . Some countries have restricted it.
+32. The future of crypto depends on regulations.
