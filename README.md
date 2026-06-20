@@ -31,3 +31,4 @@ A smart contract is an automated
 . Some countries have restricted it.
 32. The future of crypto depends on regulations.
 33. Blockchain also has non-financial uses.
+34. It can be used in voting systems.
