@@ -21,3 +21,4 @@ A smart contract is an automated
 2. Exchanges are places to buy and sell crypto.
 2. Exchanges are centralized or decentralized.
 2. Centralized exchanges are run by companies.
+2. Decentralized exchanges work without intermediaries.
