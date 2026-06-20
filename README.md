@@ -29,6 +29,7 @@ A smart contract is an automated
 2. Crypto laws vary across countries.
 2. Some countries have legalized it.
 . Some countries have restricted it.
-32. The future of crypto depends on regulations.
-33. Blockchain also has non-financial uses.
-34. It can be used in voting systems.
+. The future of crypto depends on regulations.
+. Blockchain also has non-financial uses.
+. It can be used in voting systems.
+. It is used in digital identity systems.
