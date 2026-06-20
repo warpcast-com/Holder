@@ -1,1 +1,1 @@
-Neon survival RPG in a fractured world where choices reshape reality, memories decay, and you fight to exist.
+Text-based RPG in a broken simulation where you explore shifting worlds, make choices, and survive collapsing realities.
