@@ -19,3 +19,4 @@ A smart contract is an automated
 2. Investors enter the market hoping for profit.
 2. Some people lose money due to volatility.
 2. Exchanges are places to buy and sell crypto.
+2. Exchanges are centralized or decentralized.
