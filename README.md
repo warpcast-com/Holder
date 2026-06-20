@@ -25,3 +25,4 @@ A smart contract is an automated
 2. Security is very important in crypto.
 2. Wallets are used to store cryptocurrencies
 2. Hacking is one of the major risks.
+2. Assets must be protected carefully.
