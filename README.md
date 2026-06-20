@@ -36,3 +36,4 @@ A smart contract is an automated
 . Crypto may change the global financial system.
 . The internet may become blockchain-based.
 . Digital ownership is becoming more important.
+. Tokens represent various assets.
