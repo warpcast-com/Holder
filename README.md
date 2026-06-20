@@ -175,3 +175,4 @@ It only appears when:
 2. 🌑 Dark Ending → Become a Cursed Door
 3. 🚪 Escape Ending → Leave the city with partial memory
 4. 🧠 Secret Ending → Control all doors and realities
+e
