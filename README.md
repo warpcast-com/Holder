@@ -15,3 +15,4 @@ A smart contract is an automated
 2. NFTs are unique digital assets.
 2. NFTs represent ownership of digital items.
 2. The crypto market is highly volatile.
+2. Volatility can create profit or loss.
