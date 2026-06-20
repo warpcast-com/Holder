@@ -18,3 +18,4 @@ A smart contract is an automated
 2. Volatility can create profit or loss.
 2. Investors enter the market hoping for profit.
 2. Some people lose money due to volatility.
+2. Exchanges are places to buy and sell crypto.
