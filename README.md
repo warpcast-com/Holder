@@ -22,3 +22,4 @@ A smart contract is an automated
 2. Exchanges are centralized or decentralized.
 2. Centralized exchanges are run by companies.
 2. Decentralized exchanges work without intermediaries.
+2. Security is very important in crypto.
