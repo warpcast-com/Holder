@@ -176,3 +176,8 @@ It only appears when:
 3. 🚪 Escape Ending → Leave the city with partial memory
 4. 🧠 Secret Ending → Control all doors and realities
 e
+🎮 Game Title: “Neon Rift”
+
+🧭 Description (50 words)
+
+Neon Rift is a fast-paced text RPG set in a collapsing cyber-city where reality glitches constantly. You are a rogue traveler jumping between fractured zones, making choices that affect survival, identity, and power. Every decision opens or destroys pathways, leading to multiple endings shaped by memory loss and corruption.
