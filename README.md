@@ -1,1 +1,1 @@
-Void Runner is a survival RPG in a collapsing void where you collect shards, avoid erasure entities, and reshape reality.
+Neon survival RPG in a fractured world where choices reshape reality, memories decay, and you fight to exist.
