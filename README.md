@@ -37,3 +37,4 @@ A smart contract is an automated
 . The internet may become blockchain-based.
 . Digital ownership is becoming more important.
 . Tokens represent various assets.
+. Crypto projects are constantly evolving.
