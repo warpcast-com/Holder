@@ -38,3 +38,4 @@ A smart contract is an automated
 . Digital ownership is becoming more important.
 . Tokens represent various assets.
 . Crypto projects are constantly evolving.
+. Investing in crypto requires knowledge.
