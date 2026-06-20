@@ -35,3 +35,4 @@ A smart contract is an automated
 . It is used in digital identity systems.
 . Crypto may change the global financial system.
 . The internet may become blockchain-based.
+. Digital ownership is becoming more important.
