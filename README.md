@@ -13,3 +13,4 @@ A smart contract is an automated
 2. DeFi provides financial services without banks.
 2. DeFi gives users full control over their assets.
 2. NFTs are unique digital assets.
+2. NFTs represent ownership of digital items.
