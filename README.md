@@ -42,3 +42,4 @@ A smart contract is an automated
 41. 
 42. Entering without knowledge is risky.
 43. Technical analysis studies price movements.
+44. Fundamental analysis evaluates project value.
