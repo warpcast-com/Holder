@@ -49,3 +49,4 @@ A smart contract is an automated
 50. Bitcoin consumes a lot of energy.
 Some newer networks use less energy
 52. Proof of Stake is a newer system.
+Users lock assets to participate
