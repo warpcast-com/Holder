@@ -56,3 +56,4 @@ Hot wallets are faster to use
 56. Private keys are extremely important.
 57. Losing the key means losing funds.
 57. No one can recover it.
+57. Transactions are transparent.
