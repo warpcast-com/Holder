@@ -54,3 +54,4 @@ Users lock assets to participate
 55. Cold wallets are more secure.
 Hot wallets are faster to use
 56. Private keys are extremely important.
+57. Losing the key means losing funds.
