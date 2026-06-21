@@ -50,3 +50,4 @@ A smart contract is an automated
 Some newer networks use less energy
 52. Proof of Stake is a newer system.
 Users lock assets to participate
+54. They receive rewards in return.
