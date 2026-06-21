@@ -41,3 +41,4 @@ A smart contract is an automated
 . Investing in crypto requires knowledge.
 41. 
 42. Entering without knowledge is risky.
+43. Technical analysis studies price movements.
