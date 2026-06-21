@@ -39,3 +39,5 @@ A smart contract is an automated
 . Tokens represent various assets.
 . Crypto projects are constantly evolving.
 . Investing in crypto requires knowledge.
+41. 
+42. Entering without knowledge is risky.
