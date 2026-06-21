@@ -48,3 +48,4 @@ A smart contract is an automated
 49. Miners receive rewards.
 50. Bitcoin consumes a lot of energy.
 Some newer networks use less energy
+52. Proof of Stake is a newer system.
