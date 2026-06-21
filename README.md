@@ -39,7 +39,7 @@ A smart contract is an automated
 . Tokens represent various assets.
 . Crypto projects are constantly evolving.
 . Investing in crypto requires knowledge.
-41. 
+41. 45. The user community is very important.
 42. Entering without knowledge is risky.
 43. Technical analysis studies price movements.
 44. Fundamental analysis evaluates project value.
