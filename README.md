@@ -45,3 +45,4 @@ A smart contract is an automated
 44. Fundamental analysis evaluates project value.
 46. Public adoption increases value.
 48. Miners confirm transactions.
+49. Miners receive rewards.
