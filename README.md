@@ -47,3 +47,4 @@ A smart contract is an automated
 48. Miners confirm transactions.
 49. Miners receive rewards.
 50. Bitcoin consumes a lot of energy.
+Some newer networks use less energy
