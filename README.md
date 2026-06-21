@@ -46,3 +46,4 @@ A smart contract is an automated
 46. Public adoption increases value.
 48. Miners confirm transactions.
 49. Miners receive rewards.
+50. Bitcoin consumes a lot of energy.
