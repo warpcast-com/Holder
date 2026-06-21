@@ -53,3 +53,4 @@ Users lock assets to participate
 54. They receive rewards in return.
 55. Cold wallets are more secure.
 Hot wallets are faster to use
+56. Private keys are extremely important.
