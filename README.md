@@ -59,3 +59,5 @@ Hot wallets are faster to use
 . Transactions are transparent.
 . Everyone can view transactions.
 This transparency builds trust
+58. User identities are usually anonymous.
+
