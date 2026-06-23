@@ -69,3 +69,4 @@ Virtual lands are bought and sold
 . Crypto games can generate income.
 . Games can provide real earnings.
 The model is called Play-to-Earn
+. Tokens power game economies.
