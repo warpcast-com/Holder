@@ -48,12 +48,13 @@ A smart contract is an automated
 49. Miners receive rewards.
 50. Bitcoin consumes a lot of energy.
 Some newer networks use less energy
-52. Proof of Stake is a newer system.
+. Proof of Stake is a newer system.
 Users lock assets to participate
-54. They receive rewards in return.
-55. Cold wallets are more secure.
+. They receive rewards in return.
+. Cold wallets are more secure.
 Hot wallets are faster to use
-56. Private keys are extremely important.
-57. Losing the key means losing funds.
-57. No one can recover it.
-57. Transactions are transparent.
+. Private keys are extremely important.
+. Losing the key means losing funds.
+. No one can recover it.
+. Transactions are transparent.
+. Everyone can view transactions.
