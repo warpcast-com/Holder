@@ -83,3 +83,4 @@ Competition between blockchains is intense.
 . Scalability is a major challenge.
 . Layer 2 solutions improve performance.
 . They make transactions faster and cheaper.
+. The future of crypto depends on innovation.
