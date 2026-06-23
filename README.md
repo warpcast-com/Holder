@@ -76,5 +76,6 @@ The model is called Play-to-Earn
 . NFTs require careful analysis.
 . Digital art is a major NFT use case.
 . Artists earned significant income.
-The market is still unstable
-. New crypto projects are constantly built.
+The market is still unstable.
+Competition between blockchains is intense.
+68. Transaction speed is an important factor.
