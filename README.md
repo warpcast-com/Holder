@@ -66,3 +66,4 @@ Blockchain combines transparency and anonymity
 . Users can own digital assets.
 Virtual lands are bought and sold
 . The digital economy is growing.
+. Crypto games can generate income.
