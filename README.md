@@ -67,3 +67,4 @@ Blockchain combines transparency and anonymity
 Virtual lands are bought and sold
 . The digital economy is growing.
 . Crypto games can generate income.
+. Games can provide real earnings.
