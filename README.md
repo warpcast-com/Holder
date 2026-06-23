@@ -63,3 +63,4 @@ This transparency builds trust
 Blockchain combines transparency and anonymity
 60. The metaverse uses crypto technology.
 61. The metaverse is a digital world.
+61. Users can own digital assets.
