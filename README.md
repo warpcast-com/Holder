@@ -72,3 +72,4 @@ The model is called Play-to-Earn
  Tokens power game economies.
  Token value depends on game success.
 . NFTs once experienced huge growth.
+. Then they experienced a sharp decline.
