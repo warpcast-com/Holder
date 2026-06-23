@@ -59,8 +59,9 @@ Hot wallets are faster to use
 . Transactions are transparent.
 . Everyone can view transactions.
 This transparency builds trust
-58. User identities are usually anonymous.
+. User identities are usually anonymous.
 Blockchain combines transparency and anonymity
-60. The metaverse uses crypto technology.
-61. The metaverse is a digital world.
-61. Users can own digital assets.
+. The metaverse uses crypto technology.
+. The metaverse is a digital world.
+. Users can own digital assets.
+Virtual lands are bought and sold
