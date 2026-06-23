@@ -81,4 +81,5 @@ Competition between blockchains is intense.
 . Transaction speed is an important factor.
 . Low fees attract more users.
 . Scalability is a major challenge.
-69. Layer 2 solutions improve performance.
+. Layer 2 solutions improve performance.
+. They make transactions faster and cheaper.
