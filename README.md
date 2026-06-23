@@ -87,3 +87,4 @@ Competition between blockchains is intense.
 Global adoption will expand the industry.
 . Education is necessary for entering this market.
 . Many users enter without knowledge.
+71. This leads to financial losses.
