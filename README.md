@@ -88,3 +88,13 @@ Global adoption will expand the industry.
 . Education is necessary for entering this market.
 . Many users enter without knowledge.
 71. This leads to financial losses.
+70. 
+71. Risk management is very important.
+72. Diversification reduces investment risk.
+73. Market emotions strongly affect prices.
+74. Fear and greed drive market behavior.
+75. Analytical tools help decision-making.
+76. Blockchain data is valuable for analysis.
+77. The future of crypto is still evolving.
+78. This technology will transform the global economy.
+end of commits
