@@ -75,3 +75,4 @@ The model is called Play-to-Earn
 . Then they experienced a sharp decline.
 . NFTs require careful analysis.
 . Digital art is a major NFT use case.
+. Artists earned significant income.
