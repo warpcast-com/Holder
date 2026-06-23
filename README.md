@@ -58,3 +58,4 @@ Hot wallets are faster to use
 . No one can recover it.
 . Transactions are transparent.
 . Everyone can view transactions.
+This transparency builds trust
