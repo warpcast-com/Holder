@@ -78,4 +78,5 @@ The model is called Play-to-Earn
 . Artists earned significant income.
 The market is still unstable.
 Competition between blockchains is intense.
-68. Transaction speed is an important factor.
+. Transaction speed is an important factor.
+. Low fees attract more users.
