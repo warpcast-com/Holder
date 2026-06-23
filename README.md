@@ -65,3 +65,4 @@ Blockchain combines transparency and anonymity
 . The metaverse is a digital world.
 . Users can own digital assets.
 Virtual lands are bought and sold
+. The digital economy is growing.
