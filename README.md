@@ -60,4 +60,4 @@ Hot wallets are faster to use
 . Everyone can view transactions.
 This transparency builds trust
 58. User identities are usually anonymous.
-
+Blockchain combines transparency and anonymity
