@@ -80,3 +80,4 @@ The market is still unstable.
 Competition between blockchains is intense.
 . Transaction speed is an important factor.
 . Low fees attract more users.
+. Scalability is a major challenge.
