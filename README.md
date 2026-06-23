@@ -73,3 +73,4 @@ The model is called Play-to-Earn
  Token value depends on game success.
 . NFTs once experienced huge growth.
 . Then they experienced a sharp decline.
+. NFTs require careful analysis.
