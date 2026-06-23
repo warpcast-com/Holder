@@ -85,4 +85,5 @@ Competition between blockchains is intense.
 . They make transactions faster and cheaper.
 . The future of crypto depends on innovation.
 Global adoption will expand the industry.
-70. Education is necessary for entering this market.
+. Education is necessary for entering this market.
+. Many users enter without knowledge.
