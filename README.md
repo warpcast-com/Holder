@@ -77,3 +77,4 @@ The model is called Play-to-Earn
 . Digital art is a major NFT use case.
 . Artists earned significant income.
 The market is still unstable
+. New crypto projects are constantly built.
